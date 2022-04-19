@@ -8,7 +8,7 @@ local Notify = NotifyLibrary.Notify
                 })
 
 wait(1)
-loadstring(game:HttpGet("https://paste.ee/r/F3XpF"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/uqLTBSVA"))()
 
 
                 Notify({
