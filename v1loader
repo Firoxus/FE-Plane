@@ -13,7 +13,7 @@ loadstring(game:HttpGet("https://paste.ee/r/F3XpF"))()
 
                 Notify({
                     Title = "Fling and Script stuff",
-                    Description = "To fling fly into an player | Script only works on R6 | It may break just reset and execute again | if it breaks again rejoin :3 | The more laggy you are the more unstable it becomes",
+                    Description = "Script only works on R6 | It may break just reset and execute again | if it breaks again rejoin :3 | The more laggy you are the more unstable it becomes",
                     Duration = 8
                 })
 
