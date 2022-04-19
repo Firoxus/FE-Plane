@@ -21,7 +21,7 @@ wait(3)
 
                 Notify({
                     Title = "Credits",
-                    Description = "Credits go to hathub creators Firox#3034/0001 only modifyed and fixed it! | Reanimation used: Selexity v3 fixed ",
+                    Description = "Credits go to hathub creators Firox#3034/0001 only modifyed and fixed it! | Reanimation used: Selexity v1 fixed ",
                     Duration = 6
                 })
             
